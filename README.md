@@ -1,0 +1,1 @@
+Este programa crea una experiencia interactiva donde el botón No se mueve aleatoriamente por el formulario cuando el ratón se acerca a él, y al hacer clic en el botón btnSi, se revela un mensaje, como una broma para el usuario.
